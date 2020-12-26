@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Aclonica";
+  src: url("./fonts/aclonica-v11-latin-regular.woff2") format("woff2"),
+    url("./fonts//aclonica-v11-latin-regular.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  background: url("./icon.png");
+  font-family: "Aclonica";
+}
